@@ -8,7 +8,7 @@ Python code to plot Florence Nightingale's coxcomb chart for illustrating planet
 
 * `planetary-boundaries-coxcomb.py` - python code for making the coxcomb chart
 
-The first step is to clone the latest glosat-short-segments code and step into the check out directory: 
+The first step is to clone the latest planetary-boundaries-coxcomb code and step into the check out directory: 
 
     $ git clone https://github.com/patternizer/planetary-boundaries-coxcomb.git
     $ cd planetary-boundaries-coxcomb
