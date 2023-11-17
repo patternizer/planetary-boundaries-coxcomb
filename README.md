@@ -25,9 +25,9 @@ Run with:
 
 ## License
 
-The code is distributed under terms and conditions of the [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+The code is distributed under terms and conditions of the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Contact information
 
-* [Michael Taylor](michael.a.taylor@uea.ac.uk)
+* [Michael Taylor](patternizer@proton.me)
 
